@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="645cc389-e775-44ff-a686-b53afc647d79" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oldman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oldman.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="Oldman.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Oldman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="147" column="45" selection-start-line="147" selection-start-column="45" selection-end-line="147" selection-end-column="45" />
+            <state relative-caret-position="221">
+              <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -57,17 +58,38 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oldman_manage" type="cbb8eebc:String" user="oldman_manage" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="oldman_manage" type="b2602c69:ProjectViewProjectNode" />
               <item name="oldman_manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oldman_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldman_manage" type="462c0819:PsiDirectoryNode" />
+              <item name="Oldman.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="oldman_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oldman_manage" type="462c0819:PsiDirectoryNode" />
+              <item name="Oldman.py" type="8704e2dd:PyFileNode" />
+              <item name="Identitys" type="dd8bbb05:PyElementNode" />
             </path>
           </expand>
           <select />
@@ -174,17 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1530257789685</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="初始化版本">
+      <created>1530257881564</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530257881564</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
       <window_info anchor="bottom" id="Terminal" weight="0.32890365" />
@@ -253,8 +281,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Oldman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="147" column="45" selection-start-line="147" selection-start-column="45" selection-end-line="147" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
         </state>
       </provider>
     </entry>
