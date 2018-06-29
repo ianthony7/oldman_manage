@@ -145,6 +145,7 @@ class Identitys:    # 身份
                                 continue
                         else:
                             print('请重新输入...')
+
                             continue
 
 
