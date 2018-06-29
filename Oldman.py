@@ -215,6 +215,9 @@ class Identitys:    # 身份
                         print('用户不存在,已自动注册成功...')
                         print('请重新登陆...')
 
+    def Identitys_exit(self):
+        exit()
+
 
 identitys = Identitys()
 user_status = {'username':None,'status':False}
@@ -225,12 +228,14 @@ while True:
         1、管理员
         2、教师
         3、学生
+        4、退出程序
     ''')
 
     Identityss_number = {
         1: identitys.manage_Identitys,
         2: identitys.teacher_Identitys,
-        3: identitys.student_Identitys
+        3: identitys.student_Identitys,
+        4: identitys.Identitys_exit
     }
 
     choice_number = input('请输入选择你的身份：').strip()
