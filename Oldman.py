@@ -111,7 +111,7 @@ class Identitys:    # 身份
         while True:
             name = input('请输入管理员姓名：').strip()
             passwd = input('请输入管理员密码：').strip()
-            with open('manage_identity.txt','r',encoding='utf-8') as manage_readfile:
+            with open('manage_identity.txt','r+',encoding='utf-8') as manage_readfile:
                 for line in manage_readfile:
                     lines = line.split('|')
                     fname = lines[0]
@@ -145,7 +145,7 @@ class Identitys:    # 身份
                                 continue
                         else:
                             print('请重新输入...')
-                            
+
                             continue
 
 
